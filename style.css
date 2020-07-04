@@ -1,0 +1,17 @@
+.first{
+    width: 40%;
+    float: left;
+    margin-left: 120px;
+}
+img{
+    width: 100%;
+}
+p{
+    font-size: large
+}
+h1{
+    font-size: 35px;
+    }
+    h2{
+        font-size: 45px;
+    }
